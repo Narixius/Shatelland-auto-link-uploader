@@ -1,5 +1,5 @@
 # Shatelland auto link uploader
-An automatic uploader for shatelland.com. Just put the URL of files on app. it will upload the files to shatelland.com automaticly one by one.
+An automatic command line uploader app for shatelland.com. Just put the URL of files on app. it will upload the files to shatelland.com automaticly one by one.
 
 ## Usage
 
